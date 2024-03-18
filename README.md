@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on various open source project
 - 🤔 I’m looking for help with the earth
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: 
+- 😄 Pronouns: English | 简体中文
 - ⚡ Fun fact: I am a newbie
 
 
